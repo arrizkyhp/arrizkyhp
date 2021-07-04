@@ -1,5 +1,10 @@
-### Hi there 👋 Im Front-end Web Developer from Indonesia 
+## Hi there 👋 Im Front-end Web Developer from Indonesia 
 
+- 🌱 I’m currently learning Css and Javascript
+
+### Certifications
+- [Freecodecamp Certifications](https://www.freecodecamp.org/arrizkyhp)
+  - Responsive Web Design ✔️
 
 <!--
 **arrizkyhp/arrizkyhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
