@@ -1,10 +1,17 @@
-## Hi there 👋 Im Front-end Web Developer from Indonesia 
+## Hi there 👋 Im Ariz, a Front-end Web Developer from Indonesia 
 
 - 🌱 I’m currently learning Css and Javascript
+- ⚡ I love playing games, watching movie, painting, and coding
 
-### Certifications
+### 🎓 Certifications
 - [Freecodecamp Certifications](https://www.freecodecamp.org/arrizkyhp)
   - Responsive Web Design ✔️
+
+### 📫  Contact me 
+- 📧 arrizkyhp@gmail.com
+
+
+
 
 <!--
 **arrizkyhp/arrizkyhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
