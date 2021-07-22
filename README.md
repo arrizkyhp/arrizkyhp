@@ -1,6 +1,7 @@
 ## Hi there 👋 Im Ariz, a Front-end Web Developer from Indonesia 
 
 - 🌱 I’m currently learning Css and Javascript
+- ✨ I want to be better every day.
 - ⚡ I love playing games, watching movie, painting, and coding
 
 ### 🎓 Certifications
