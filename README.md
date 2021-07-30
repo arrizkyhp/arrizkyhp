@@ -10,6 +10,7 @@
 
 ### 📫  Contact me 
 - 📧 arrizkyhp@gmail.com
+- 👔 [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/)
 
 
 
