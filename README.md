@@ -5,8 +5,9 @@
 - ⚡ I love playing games, watching movie, painting, and coding
 
 ### 🎓 Certifications
-- [Freecodecamp Certifications](https://www.freecodecamp.org/arrizkyhp)
-  - Responsive Web Design ✔️
+- [Freecodecamp Certifications](https://www.freecodecamp.org/arrizkyhp14)
+  - [Responsive Web Design](https://www.freecodecamp.org/arrizkyhp) ✔️
+  - JavaScript Algorithms and Data Structures ✔️
 
 ### 📫  Contact me 
 - 📧 arrizkyhp@gmail.com
