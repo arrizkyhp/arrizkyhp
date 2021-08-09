@@ -7,7 +7,7 @@
 
 
 ### 🎓 Certifications
-- Freecodecamp Certifications
+- Freecodecamp 
   - [Responsive Web Design](https://www.freecodecamp.org/certification/arrizkyhp/responsive-web-design) ✔️
   - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/arrizkyhp14/javascript-algorithms-and-data-structures) ✔️
 - Dicoding
