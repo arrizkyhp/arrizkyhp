@@ -8,6 +8,8 @@
 - [Freecodecamp Certifications](https://www.freecodecamp.org/arrizkyhp14)
   - [Responsive Web Design](https://www.freecodecamp.org/arrizkyhp) ✔️
   - JavaScript Algorithms and Data Structures ✔️
+- Dicoding
+  - [Belajar Dasar Git Dengan Github](https://github.com/arrizkyhp/arrizkyhp/blob/main/Certifications/Dicoding/Dicoding-Belajar%20Dasar%20Git%20Dengan%20Github.pdf) ✔️
 
 ### 📫  Contact me 
 - 📧 arrizkyhp@gmail.com
