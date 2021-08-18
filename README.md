@@ -14,8 +14,8 @@
   - [Belajar Dasar Git Dengan Github](https://github.com/arrizkyhp/arrizkyhp/blob/main/Certifications/Dicoding/Dicoding-Belajar%20Dasar%20Git%20Dengan%20Github.pdf) ✔️
 
 ## 🏋🏽‍♂️ Challenges 
-- [Frontloops](https://github.com/arrizkyhp/frontloops-challenges/tree/master/completed-challenges) ( 5 Completed )
-- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) ( 1 Completed )
+- [Frontloops](https://github.com/arrizkyhp/frontloops-challenges/tree/master/completed-challenges) (5 Completed)
+- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (1 Completed)
  
 
 ## 📫  Contact me 
