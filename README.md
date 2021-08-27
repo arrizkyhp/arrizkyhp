@@ -38,6 +38,7 @@
 
 ## 📫  Contact me 
 ### 📧 arrizkyhp@gmail.com
+### ☄ [Frontendmentor](https://www.frontendmentor.io/profile/arrizkyhp)
 
 <div align="left">
 <a href="https://github.com/arrizkyhp" target="_blank">
