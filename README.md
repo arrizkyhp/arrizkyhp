@@ -17,7 +17,7 @@
 ## 🏋🏽‍♂️ Challenges
 
 - [Frontloops](https://github.com/arrizkyhp/frontloops-challenges/tree/master/completed-challenges) (5 Completed)
-- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (6 Completed)
+- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (7 Completed)
 
 ## 👍 My Skill Set
 
