@@ -17,13 +17,14 @@
 ## 🏋🏽‍♂️ Challenges
 
 - [Frontloops](https://github.com/arrizkyhp/frontloops-challenges/tree/master/completed-challenges) (5 Completed)
-- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (14 Completed)
+- [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (15 Completed)
 
 ## 👍 My Skill Set
 
 - Html + CSS
 - Pure JavaScript
 - React JS
+- React Testing (Jest & Enzyme)
 - GIT (VCS)
 - Sass
 - Bootstrap
