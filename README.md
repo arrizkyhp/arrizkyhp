@@ -16,6 +16,7 @@
 
 ## 🏋🏽‍♂️ Challenges
 
+- [devchallenges.io](https://github.com/arrizkyhp/devchallenges.io) (8 Completed)
 - [Frontloops](https://github.com/arrizkyhp/frontloops-challenges/tree/master/completed-challenges) (5 Completed)
 - [Frontend Mentor](https://github.com/arrizkyhp/frontendmentor) (18 Completed)
 
