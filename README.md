@@ -22,12 +22,13 @@
 
 ## 👍 My Skill Set
 
-- Html + CSS
-- Pure JavaScript
+- HTML + CSS
+- JavaScript
 - React JS
 - React Testing (Jest & Enzyme)
 - GIT (VCS)
 - Sass
+- Tailwind CSS
 - Bootstrap
 - GulpJS
 - Block Element Modifier
