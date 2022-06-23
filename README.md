@@ -1,6 +1,6 @@
 # Hi there 👋 Im Ariz, a Front-end Web Developer from Indonesia
 
-- 🌱 I’m currently learning React JS & React Testing Library
+- 🌱 I’m currently learning TypeScript & React Testing Library
 - ✨ I want to be better everyday.
 - ⚡ I love playing games, watching movie, painting, and coding
 
