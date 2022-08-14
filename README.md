@@ -24,11 +24,14 @@
 
 - HTML + CSS
 - JavaScript
+- TypeSCript
 - React JS
 - React Testing (Jest & Enzyme)
+- Angular
 - GIT (VCS)
 - Sass
 - Tailwind CSS
+- Chakra UI
 - Bootstrap
 - GulpJS
 - Block Element Modifier
