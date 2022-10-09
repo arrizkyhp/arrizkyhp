@@ -27,8 +27,9 @@
 - TypeSCript
 - React JS
 - React Testing (Jest & Enzyme)
-- Angular
-- GIT (VCS)
+- NextJS
+- AngularJS
+- GIT 
 - Sass
 - Tailwind CSS
 - Chakra UI
